@@ -85,6 +85,7 @@ The **United States leads in total quantity sold**, followed by China and other 
 ---
 
 ## 📂 Project Structure
+
 Sales-Dashboard/
 │
 ├── Data/
@@ -101,7 +102,7 @@ Sales-Dashboard/
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](Images/dashboard-preview.png)
 
 ---
 
